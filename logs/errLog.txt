@@ -1,0 +1,5 @@
+20220302	11:16:23	33d52584-a8d9-4be4-a27f-d695e1b88988	TypeError: Assignment to constant variable.
+20220309	18:25:52	d5f56c37-28e4-4a52-880b-9545bc43bb38	SyntaxError: Unexpected string in JSON at position 8
+20220310	16:04:02	08938fe9-a3e4-46b5-9b57-cf95eb086ac1	Error: Not allowed by CORS
+20220310	16:04:48	4c8d8bb0-e10b-4eb9-8b6b-5124930ac745	Error: Not allowed by CORS
+20220310	17:52:19	059fc638-920e-48f8-a37c-5424bd7444c3	Error: Not allowed by CORS
